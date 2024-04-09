@@ -1,3 +1,3 @@
 # python_estudos
- Nesta pasta contem todos os meus estudos em python, cursos, exercicios, projetos, feitos na udemy
+ Nesta pasta contem estudos em python, cursos, exercicios, projetos, feitos na udemy
  ..
